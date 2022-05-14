@@ -25,7 +25,7 @@ experience:
   - title: Студент
     company: РУДН
     company_url: 'https://www.rudn.ru/'
-    company_logo: index.png
+    company_logo: index
     location: Россия, г.Москва
     date_start: '2021-09-01'
     date_end: ''
