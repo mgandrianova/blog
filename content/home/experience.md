@@ -30,9 +30,10 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        В обязанности входит:
         
         * Знание английского языка
+        * Выполнять все задания преподавателей
         * Программирование
 
 design:
