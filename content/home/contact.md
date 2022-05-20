@@ -55,7 +55,7 @@ content:
       link: 'https://www.researchgate.net/'
     - icon: a
       icon_pack: fas
-      name: Academia.edu
+      name: academia.edu
       link: ' https://www.academia.edu/'
     - icon: circle-book-open
       icon_pack: fas
