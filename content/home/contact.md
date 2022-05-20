@@ -56,7 +56,7 @@ content:
     - icon: a
       icon_pack: fas
       name: academia.edu
-      link: ' https://www.academia.edu/'
+      link: 'https://www.academia.edu/'
     - icon: circle-book-open
       icon_pack: fas
       name: arXiv
