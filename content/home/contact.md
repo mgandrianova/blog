@@ -34,7 +34,7 @@ content:
  
   contact_links:
     - icon: book
-      icon_pack: fab
+      icon_pack: fas
       name: eLibrary
       link:  'https://elibrary.ru/'
     - icon: graduation-cap
@@ -42,27 +42,27 @@ content:
       name: Google Scholar
       link: 'https://scholar.google.com/'
     - icon: orcid
-      icon_pack: fas
+      icon_pack: fab
       name: ORCID
       link: 'https://orcid.org/'
     - icon: mendeley
-      icon_pack: fas
+      icon_pack: fab
       name: Mendeley
       link: 'https://www.mendeley.com/'
     - icon: researchgate
-      icon_pack: fas
+      icon_pack: fab
       name: ResearchGate
       link: 'https://www.researchgate.net/'
     - icon: a
       icon_pack: fas
       name: academia.edu
       link: 'https://www.academia.edu/'
-    - icon: circle-book-open
+    - icon: book-open
       icon_pack: fas
       name: arXiv
       link: 'https://arxiv.org/'
     - icon: github
-      icon_pack: fas
+      icon_pack: fab
       name: github
       link: 'https://github.com/'
 

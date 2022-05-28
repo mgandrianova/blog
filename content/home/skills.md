@@ -16,13 +16,13 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 60%
-    icon: ball
-    icon_pack: fab
+  - description: 80%
+    icon: basketball
+    icon_pack: fas
     name: Basketball
   - description: 20%
-    icon: computer
-    icon_pack: fas
+    icon: display
+    icon_pack: far
     name: Programming
   - description: 10%
     icon: camera-retro
