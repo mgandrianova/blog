@@ -1,5 +1,5 @@
 ---
-title: Project on the topic: Basketball, its types and their history
+title: Project on the topic "Basketball, its types and their history"
 Summary: Basketball.
 tags:
   - Sports

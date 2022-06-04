@@ -54,9 +54,9 @@ social:
       icon_pack: fab
       name: Mendeley
       link: 'https://www.mendeley.com/'
-    - icon:researchgate
+    - icon: ResearchGate
       icon_pack: fab
-      name: ResearchGate
+      name: researchgate
       link: 'https://www.researchgate.net/'
     - icon: a
       icon_pack: fas
