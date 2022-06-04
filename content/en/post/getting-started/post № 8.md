@@ -1,9 +1,9 @@
 ---
-title: Языки научного программирования.
-subtitle: Языки программирования.
+title: Scientific programming languages.
+subtitle: Programming languages.
 
 # Summary for listings and search engines
-summary: Языки программирования.
+summary: Programming languages.
 
 # Link this post with a project
 projects: []
@@ -20,39 +20,39 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-# Featured image
+#Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ''
   focal_point: ''
-  placement: 2
+  location: 2
   preview_only: false
 
 authors:
-  - Андрианова Марина
+  - Andrianova Marina
 
 tags:
   - blog
 
 categories:
-  - Demo
+  -Demo
 ---
 
-## Что такое язык программирования?
+## What is a programming language?
 
-Язы́к программи́рования — формальный язык, предназначенный для записи компьютерных программ. Язык программирования определяет набор лексических, синтаксических и семантических правил, определяющих внешний вид программы и действия, которые выполнит исполнитель (обычно — ЭВМ) под её управлением.
+A programming language is a formal language for writing computer programs. A programming language defines a set of lexical, syntactic and semantic rules that determine the appearance of the program and the actions that the performer (usually a computer) will perform under its control.
 
-Со времени создания первых программируемых машин человечество придумало более восьми тысяч языков программирования (включая эзотерические, визуальные и игрушечные). Каждый год их число увеличивается. Некоторыми языками умеет пользоваться только небольшое число их собственных разработчиков, другие становятся известны миллионам людей. Профессиональные программисты могут владеть несколькими языками программирования.
+Since the creation of the first programmable machines, mankind has come up with more than eight thousand programming languages ​​(including esoteric, visual and toy ones). Every year their number increases. Some languages ​​are used only by a small number of their own developers, others become known to millions of people. Professional programmers can be proficient in several programming languages.
 
-Язык программирования предназначен для написания компьютерных программ, которые представляют собой набор правил, позволяющих компьютеру выполнить тот или иной вычислительный процесс, организовать управление различными объектами, и т. п. Язык программирования отличается от естественных языков тем, что предназначен для управления ЭВМ, в то время как естественные языки используются, прежде всего, для общения людей между собой. Большинство языков программирования использует специальные конструкции для определения и манипулирования структурами данных и управления процессом вычислений. 
+A programming language is intended for writing computer programs, which are a set of rules that allow a computer to perform a particular computational process, organize control of various objects, etc. A programming language differs from natural languages ​​in that it is designed to control a computer, while how natural languages ​​are used primarily for communication between people. Most programming languages ​​use special constructs to define and manipulate data structures and control the process of computation.
 
-## Языки научного программирования
+## Scientific programming languages
 
-Научное программирование — высокоориентированный стиль программирования для научных расчетов. От других видов программирования его отличают предельные корректность и стабильность конечного продукта, строгое разделение научной и интерфейсной частей, индивидуальность алгоритмов, а также преобладание эффективности над универсальностью.
-Научное программирование лежит в основе любого современного глобального исследования. Все передовые технологии — от квантовых компьютеров до космических программ — были бы невозможны без специалистов в области научного программирования, способных предоставить ученым надежный и точный инструмент для совершения открытий.
+Scientific programming is a highly oriented style of programming for scientific computing. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of scientific and interface parts, the individuality of algorithms, and the predominance of efficiency over universality.
+Scientific programming is at the heart of any modern global research. All advanced technologies - from quantum computers to space programs - would not be possible without scientific programmers who can provide scientists with a reliable and accurate tool for making discoveries.
 
-Ученые используют различные языки программирования, выбор которых зависит от типа задачи и предпочтений автора. Исторически первым высокоуровневым языком программирования является Fortran, на нем написано много отлаженных библиотек математической статистики и библиотек для решения дифференциальных уравнений, что актуально для экономики и биологии соответственно.
+Scientists use various programming languages, the choice of which depends on the type of problem and the preferences of the author. Historically, the first high-level programming language is Fortran; many debugged libraries of mathematical statistics and libraries for solving differential equations are written on it, which is relevant for economics and biology, respectively.
 
-Более простым синтаксисом обладает Python, также подходящий для программирования математических вычислений. Язык Python привлекается для обработки данных в математике, физике, экономике, биологии, химии и умеет работать с некоторыми другими «научными» языками: Fortran, C++, C#.
+Python has a simpler syntax, which is also suitable for programming mathematical calculations. The Python language is used for data processing in mathematics, physics, economics, biology, chemistry and can work with some other "scientific" languages: Fortran, C++, C#.
 
-В свою очередь C# позволяет программировать на платформе .NET, адаптировать программу к общеязыковой исполняющей среде (CLR) и ускорить разработку в рамках оперативных научных сессий.
+In turn, C# allows you to program on the .NET platform, adapt the program to the common language runtime (CLR), and accelerate development within the framework of operational scientific sessions.

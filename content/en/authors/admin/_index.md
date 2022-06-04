@@ -1,47 +1,47 @@
 ---
-# Display name
-title: Марина Андрианова
+# display name
+title: Marina Andrianova
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Студентка Российского Университета Дружбы Народов
+#Role/position/tagline
+role: Student of Peoples' Friendship University of Russia
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: РУДН
+  - name: RUDN University
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Мои интересы включают программирование,чтение книг и спорт.
+bio: My interests include programming, reading books and sports.
 
 # Interests to show in About widget
 interests:
-  - Программирование
-  - Чтение книг
-  - Спорт
+  - Programming
+  - Reading books
+  - Sports
 
 # Education to show in About widget
 education:
   courses:
-    - course: Среднее общее образование
-      school: МБОУ "СОШ №1" г. Канаш Чувашской Республики
+    - course: Secondary general education
+      school: MBOU "Secondary School No. 1", Kanash, Chuvash Republic
       year: 2021
-    - course: "Прикладная математика и информатика"
-      institution: Российский Университет Дружбы Народов
+    - course: "Applied Mathematics and Informatics"
+      institution: Peoples' Friendship University of Russia
       year: 2021-2025
 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+# For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+# form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
     - icon: book
       icon_pack: fas
       name: eLibrary
-      link:  'https://elibrary.ru/'
+      link: 'https://elibrary.ru/'
     - icon: graduation-cap
       icon_pack: fas
       name: Google Scholar
@@ -54,7 +54,7 @@ social:
       icon_pack: fab
       name: Mendeley
       link: 'https://www.mendeley.com/'
-    - icon: researchgate
+    - icon:researchgate
       icon_pack: fab
       name: ResearchGate
       link: 'https://www.researchgate.net/'
@@ -62,7 +62,7 @@ social:
       icon_pack: fas
       name: academia.edu
       link: 'https://www.academia.edu/'
-    - icon: book-open
+    - icon: book open
       icon_pack: fas
       name: arXiv
       link: 'https://arxiv.org/'
@@ -74,9 +74,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+#-icon: cv
+# icon_pack: ai
+# link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -85,6 +85,5 @@ email: ''
 highlight_name: true
 ---
 
-Я родилась в г. Канаш Чувашской Республики. Поступила в РУДН на направление "Прикладная математика и информатика", факультет физико-математических и естественных наук. Вхожу в женскую сборную вуза по баскетболу. Нравится программирование,спорт,чтение книг.
+I was born in Kanash, Chuvash Republic. Entered the RUDN University in the direction of "Applied Mathematics and Informatics", Faculty of Physics, Mathematics and Natural Sciences. I am a member of the women's basketball team of the university. I like programming, sports, reading books.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

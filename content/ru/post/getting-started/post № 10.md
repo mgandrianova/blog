@@ -35,7 +35,7 @@ tags:
   - blog
 
 categories:
-  - Demo
+  - Other
 ---
 
 ## Водолей (знак зодиака)

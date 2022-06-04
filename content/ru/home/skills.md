@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Навыки
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,15 +19,15 @@ feature:
   - description: 80%
     icon: basketball
     icon_pack: fas
-    name: Basketball
+    name: Баскетбол
   - description: 20%
     icon: display
     icon_pack: far
-    name: Programming
+    name: Программирование
   - description: 10%
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Фотография
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

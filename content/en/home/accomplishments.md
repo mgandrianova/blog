@@ -27,9 +27,9 @@ item:
     date_end: ''
     date_start: '2021-09-01'
     description: ''
-    organization: РУДН
+    organization: RUDN University
     organization_url: https://www.rudn.ru/
-    title: Студентка РУДН
+    title: RUDN Student
     url: ''
   
 

@@ -1,9 +1,9 @@
 ---
-title: Мой знак зодиака.
-subtitle: Мой знак зодиака-водолей.
+title: My zodiac sign.
+subtitle: My zodiac sign is Aquarius.
 
 # Summary for listings and search engines
-summary: Мой знак зодиака-водолей.
+summary: My zodiac sign is Aquarius.
 
 # Link this post with a project
 projects: []
@@ -20,29 +20,28 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-# Featured image
+#Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ''
   focal_point: ''
-  placement: 2
+  location: 2
   preview_only: false
 
 authors:
-  - Андрианова Марина
+  - Andrianova Marina
 
 tags:
   - blog
 
 categories:
-  - Demo
+  -Other
 ---
 
-## Водолей (знак зодиака)
+## Aquarius (zodiac sign)
 
-Водолей (лат. Aquarius) — одиннадцатый знак зодиака, соответствующий сектору эклиптики от 300° до 330°, считая от точки весеннего равноденствия; постоянный знак тригона Воздух. Обычно изображается в виде человека мужского пола с кувшином, льющего воду.
+Aquarius (lat. Aquarius) - the eleventh sign of the zodiac, corresponding to the sector of the ecliptic from 300 ° to 330 °, counting from the vernal equinox; permanent sign of the trine Air. Usually depicted as a male person with a jug pouring water.
 
-В западной астрологии считается, что Солнце находится в знаке Водолея приблизительно с 20 января по 19 февраля. Не следует путать знак Водолея и созвездие Водолея, Солнце в котором находится с 16 февраля по 11 марта.
+In Western astrology, the Sun is considered to be in the sign of Aquarius from approximately January 20 to February 19. The sign of Aquarius should not be confused with the constellation of Aquarius, in which the Sun is located from February 16 to March 11.
 
-Управляющие планеты Водолея — Уран и Сатурн. 
-
+The ruling planets of Aquarius are Uranus and Saturn.

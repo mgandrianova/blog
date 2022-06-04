@@ -1,9 +1,9 @@
 ---
-title: Пост по прошедшей неделе(09.05.2022-14.05.2022)
-subtitle: Сегодня 14 мая и вот мой пост по прошедшей неделе.
+title: Last week's post(05/09/2022-05/14/2022)
+subtitle: Today is May 14th and here is my post from last week.
 
 # Summary for listings and search engines
-summary: Сегодня 14 мая и вот мой пост по прошедшей неделе.
+summary: Today is May 14th and here is my post from last week.
 
 # Link this post with a project
 projects: []
@@ -20,24 +20,24 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-# Featured image
+#Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ''
   focal_point: ''
-  placement: 2
+  location: 2
   preview_only: false
 
 authors:
-  - Андрианова Марина
+  - Andrianova Marina
 
 tags:
   - last week
 
 categories:
-  - Demo
+  -Demo
 ---
 
 ## Overview
 
-В начале текущей недели я отдыхала, так как в понедельник и во вторник были выходными в честь праздника 9 мая. Затем я выполняла лабораторные работы по операционным системам,ходила на очные пары, в свободное время читала книгу.
+At the beginning of the current week, I had a rest, as Monday and Tuesday were days off in honor of the May 9th holiday. Then I did laboratory work on operating systems, went to face-to-face classes, and read a book in my free time.

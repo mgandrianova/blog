@@ -1,9 +1,9 @@
 ---
-title: Пост по прошедшей неделе(16.05.2022-20.05.2022)
-subtitle: Сегодня 20 мая и вот мой пост по прошедшей неделе.
+title: Last week's post(16.05.2022-20.05.2022)
+subtitle: Today is May 20th and here is my post from last week.
 
 # Summary for listings and search engines
-summary: Сегодня 20 мая и вот мой пост по прошедшей неделе.
+summary: Today is May 20th and here is my post from last week.
 
 # Link this post with a project
 projects: []
@@ -20,24 +20,24 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-# Featured image
+#Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ''
   focal_point: ''
-  placement: 2
+  location: 2
   preview_only: false
 
 authors:
-  - Андрианова Марина
+  - Andrianova Marina
 
 tags:
   - blog
 
 categories:
-  - Demo
+  -Demo
 ---
 
-## Прошедшая неделя
+## Last week
 
-На текущей неделе я ходила на очные пары английского,математической логики(была контрольная),математического анализа(тоже была контрольная). В свободное время я выполняла лабораторные работы № 9 и № 10 по операционным системам.Завтра меня ожидает поездка в Мордовию к двоюродной сестре.
+This week I went to face-to-face classes of English, mathematical logic (there was a control), mathematical analysis (there was also a control). In my free time, I did laboratory work No. 9 and No. 10 on operating systems. Tomorrow I will go to Mordovia to visit my cousin.

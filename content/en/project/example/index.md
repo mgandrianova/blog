@@ -1,15 +1,15 @@
 ---
-title: Проект на тему:"Баскетбол,его виды и их история"
-summary: Баскетбол.
+title: Project on the topic: "Basketball, its types and their history"
+Summary: Basketball.
 tags:
-  - Спорт
+  - Sports
 date: '2022-05-28'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Баскетбол
+  caption: Basketball
   focal_point: Smart
 
 url_code: ''
@@ -18,55 +18,54 @@ url_slides: ''
 url_video: ''
 
 # Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
+# Associate this project with Markdown slides.
+# Simply enter your slide deck's filename without extension.
+#E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+# Otherwise, set `slides = ""`.
 
 ---
 
-Специальные исследования показали высокую эффективность занятий баскетболом для разностороннего развития детского организма. Бег и прыжки активизируют рост тела в длину. Броски в высоко расположенную цель способствуют формированию правильной осанки, передачи мяча на дальнее расстояние, борьба за мяч у щита развивают силу мышц. Под влиянием физической нагрузки, которую дети получают на занятиях и соревнованиях, совершенствуется деятельность сердечно-сосудистой системы, увеличивается окружность груди, жизненная емкость легких.
-Упражнения специальной физической подготовки, благодаря сопряженному воздействию, способствуют развитию координации быстроты, скоростно-силовых качеств, ловкости и ориентировки, создавая тем самым предпосылки усвоения и совершенствования техники и тактики игры.
+Special studies have shown the high effectiveness of basketball for the all-round development of the child's body. Running and jumping activate the growth of the body in length. Throws to a high target contribute to the formation of correct posture, passing the ball over a long distance, fighting for the ball at the backboard develop muscle strength. Under the influence of physical activity that children receive in classes and competitions, the activity of the cardiovascular system improves, chest circumference and lung capacity increase.
+Exercises of special physical training, due to the conjugated effect, contribute to the development of coordination of speed, speed-strength qualities, dexterity and orientation, thereby creating the prerequisites for mastering and improving the technique and tactics of the game.
 
-Актуальность: В современной жизни все больше использование занятий физическими упражнениями направлено не на достижение высоких результатов, а на повышение их оздоровительного влияния на человека. Для решения такой глобальной проблемы наиболее эффективными средствами являются, прежде всего, спортивные игры.
+Relevance: In modern life, more and more use of physical exercises is aimed not at achieving high results, but at increasing their health-improving effect on a person. To solve such a global problem, the most effective means are, first of all, sports games.
 
-Современный баскетбол находится в стадии бурного творческого подъема, направленного на активизацию действий, как в нападении, так и в защите. Он является одним из средств физического развития и воспитания молодежи. В соответствии с комплексной программой физического воспитания школьников баскетбол является одним из средств физического воспитания.
+Modern basketball is in a stage of rapid creative upsurge, aimed at intensifying actions, both in attack and in defense. It is one of the means of physical development and education of young people. In accordance with the comprehensive program of physical education for schoolchildren, basketball is one of the means of physical education.
 
-Цель: формирование представлений об истории баскетбола и его разновидностях.
+Purpose: to form ideas about the history of basketball and its varieties.
 
-В ходе планирования проводимой работы автором проекта была выдвинута следующая гипотеза: предположим, что разнообразие видов игры баскетбол и собственно игровая деятельность обладают уникальными свойствами для формирования жизненно важных навыков и умений, поэтому является эффективным средством укрепления здоровья.
+In the course of planning the work being carried out, the author of the project put forward the following hypothesis: suppose that a variety of types of basketball and the actual game activity have unique properties for the formation of vital skills and abilities, therefore, it is an effective means of improving health.
 
-Что такое баскетбол?
-Баскетбол — спортивная командная игра с мячом, в которой мяч забрасывают руками в корзину (кольцо) соперника.
+What is basketball?
+Basketball is a sports team game with a ball in which the ball is thrown with the hands into the basket (ring) of the opponent.
 
-В баскетбол играют две команды. Обычно команда состоит из 12 человек, 5 из которых являются полевыми, а остальные считаются игроками на замену.
+Basketball is played by two teams. Usually a team consists of 12 people, 5 of which are field players, and the rest are considered substitutes.
 
-Правила игры в баскетбол
-Спортсмены, владеющие мячом, должны передвигаться по полю, ударяя им в пол. В противном случае будет засчитан «пронос мяча», а это нарушение правил в баскетболе. Случайное прикосновение к мячу отличной от руки частью тела не считается нарушением, в отличие от целенаправленной игры ногой или кулаком.
+Basketball Rules
+Athletes in possession of the ball must move around the field, hitting the floor with it. Otherwise, "carrying the ball" will be counted, and this is a violation of the rules in basketball. Accidentally touching the ball with a body part other than the hand is not considered a foul, unlike purposeful play with the foot or fist.
 
-Баскетбольный матч состоит из 4 периодов или таймов, но время каждого тайма (время игры) разнится в зависимости от баскетбольной ассоциации. Между периодами предусмотрены короткие перерывы. Заброшенный в корзину мяч может приносить разное количество очков своей команде. Если мяч заброшен во время штрафного броска, то команда зарабатывает 1 очко. Если мяч заброшен со средней или близкой дистанции (ближе 3-х очковой линии), то команде дается 2 очка.
-Три очка зарабатывает команда, если мяч заброшен из-за трехочковой линии. Если в основное время обе команды набрали одинаковое число очков, то назначается 5 минутный овертайм, если и он закончился в ничью, то назначается следующий и так до тех пор, пока не будет определен победитель. Игроку разрешается сделать только два шага с мячом, после чего он должен либо произвести бросок, либо отдать пас.
+A basketball game consists of 4 periods or halves, but the timing of each half (play time) varies depending on the basketball association. There are short breaks between periods. The ball thrown into the basket can bring a different number of points to its team. If the ball is scored during the free throw, the team earns 1 point. If the ball is thrown from an average or close distance (closer than the 3-point line), then the team is given 2 points.
+A team earns three points if the ball is scored from behind the three-point line. If in regular time both teams scored the same number of points, then a 5-minute overtime is assigned, if it ended in a draw, then the next one is assigned and so on until the winner is determined. The player is only allowed to take two steps with the ball, after which he must either shoot or pass.
 
-Разновидности баскетбола.
+Types of basketball.
 
-Мини-баскетбол. Правила мини-баскетбола были разработаны в начале 1950-х годов американцем Джеем Арчером. Игра предназначена для детей 6–12 лет и подразделяется на два уровня: собственно мини-баскетбол (возрастная группа 9–12 лет) и микро-баскетбол (для детей младше 9 лет).
+Mini basketball. Mini-basketball rules were developed in the early 1950s by American Jay Archer. The game is intended for children aged 6-12 and is divided into two levels: mini-basketball itself (age group 9-12) and micro-basketball (for children under 9).
 
-В мини-баскетбол играют команды по пять игроков в каждой, хотя допускаются и «уменьшенные» составы – вплоть до 2´2. Нередко проводятся матчи между смешанными командами (в состав которых входят и мальчики, и девочки). Игра идет четыре тайма по 6 минут. Несколько отличаются от классического баскетбола и сами правила игры. В мини-баскетболе, например, не фиксируется чистое время и не действует «правило трех секунд».
+Mini-basketball is played by teams of five players each, although "reduced" teams are also allowed - up to 2x2. Often there are matches between mixed teams (which include both boys and girls). The game is played in four halves of 6 minutes. The rules of the game are somewhat different from classic basketball. In mini-basketball, for example, net time is not fixed and the “three-second rule” does not apply.
 
-Баскетбол на инвалидных колясках. Появился в 1946 в США. Бывшие баскетболисты, во время Второй мировой войны получившие серьезные ранения и увечья на полях сражений, не захотели расставаться с любимой игрой и придумали «свой» баскетбол. Сейчас в него играют более чем в 80 странах. Число официально зарегистрированных игроков – 25 тысяч человек.
+Wheelchair basketball. Appeared in 1946 in the USA. Former basketball players, who during the Second World War received serious injuries and injuries on the battlefields, did not want to part with their favorite game and came up with "their" basketball. Now it is played in more than 80 countries. The number of officially registered players is 25 thousand people.
+The International Wheelchair Basketball Federation (IWBF) holds various sports events: World Championship - every 4 years; annual tournaments of club teams, zonal competitions (once or twice a year), etc. Wheelchair basketball has been included in the program of the Paralympic Games since the first such Olympics were held in Rome in 1960. Wheelchair basketball rules have their own prohibitions and restrictions. For example, "jogging" is prohibited - when a player, in the process of dribbling the ball, spins the wheel with his hand more than two times.
 
-Международная федерация баскетбола на инвалидных колясках (IWBF) проводит различные спортивные мероприятия: чемпионат мира – раз в 4 года; ежегодные турниры клубных команд, зональные соревнования (один-два раза в год) и пр. Баскетбол на инвалидных колясках входит в программу Параолимпийских игр с момента проведения первой такой Олимпиады в Риме в 1960. В правилах баскетбола на инвалидных колясках есть свои запреты и ограничения. Например, запрещена «пробежка» – когда игрок в процессе ведения мяча крутит колесо рукой более двух раз.
+Streetball (from the English "street" - street). A more dynamic and aggressive sport than classic basketball. The game involves two teams of three players each (sometimes with one spare) on a special streetball court or on a regular basketball court, using only one half of it - and, accordingly, only one ring. In case of a miss, the team that attacked the ring before, protects it from the attack of the opponent, etc. Which team will start the game is determined by lot.
 
-Стритбол (от англ. «street» – улица). Более динамичный и агрессивный вид спорта, чем классический баскетбол. В игре участвуют две команды по три игрока в каждой (иногда с одним запасным) на специальной площадке для стритбола или на обычной баскетбольной, задействуя только одну ее половину – и, соответственно, только одно кольцо. В случае промаха команда, атаковавшая до этого кольцо, защищает его от атаки соперника и т.д. Какая команда начнет игру, определяют по жребию.
+The game goes on until one of the teams scores 16 points (but the gap in the score must be at least 2 points). Sometimes they play up to a gap of 8 points or for a time (20 minutes) - in this case, the 30-second rule applies: if during this time the team has not managed to complete the attack, the ball goes to the opponent. For a successful throw, a team is awarded a point, for a throw from a 3-point zone - two points.
 
-Игра идет до того момента, пока одна из команд не наберет 16 очков (но разрыв в счете должен составлять не менее 2 очков). Иногда играют до разрыва в 8 очков или на время (20 минут) – в этом случае действует правило 30 секунд: если за это время команда не сумела завершить атаку, мяч переходит к сопернику. За результативный бросок команде начисляется очко, за бросок из 3-очковой зоны – два очка.
+A goal scored in the basket is counted only if it has been touched by two players of the attacking team. The ball then goes to the defending team: play resumes as soon as one of its players has touched the ball. In this case, the ball must first be taken out of the 3-point line. Jogging, double dribbling and throwing into the basket from above are prohibited.
 
-Заброшенный в корзину мяч засчитывается только в том случае, если его коснулись два игрока атакующей команды. Мяч после этого переходит к обороняющейся команде: игра возобновляется, как только один из ее игроков коснулся мяча. При этом мяч должен быть сначала выведен за пределы 3-очковой линии. Пробежка, двойное ведение и бросок в корзину сверху запрещены.
+Korfball (from Dutch korf - basket). This game was invented in 1902 by a schoolteacher from Amsterdam, Nico Brekhuysen. Two teams of 8 people each (4 men and 4 women) play on a 40x20m court divided in half by the middle line, two halves of 30 minutes. Four players (2 men and 2 women) are in their own half of the court and defend their basket, four are in the half of the opposing team, their task is to hit the "alien" ring.
 
-Корфбол (от голл. korf – корзина). Эту игру придумал в 1902 школьный преподаватель из Амстердама Нико Брекхюйсен. Две команды по 8 человек в каждой (4 мужчины и 4 женщины) играют на площадке 40´20 м, разделенной пополам средней линией, два тайма по 30 минут. Четыре игрока (2 мужчин и 2 женщины) находятся на своей половине площадки и защищают свою корзину, четыре – на половине команды-соперницы, их задача – поразить «чужое» кольцо.
+After two successful shots, the defenders move into the offensive zone and vice versa. Korfball is a less contact game than basketball. At the same time, according to the rules, a man can only play against a man, and a woman against a woman. Dribbling in korfball is not allowed, and the player who has possession of the ball can take no more than two steps with it. The ring is narrower in diameter than a basketball one (40 cm), and it is attached higher (3.5 m). (There is a more “large-scale” version of the game: with a larger area, the number of players, etc.)
 
-После двух результативных бросков защитники переходят в зону нападения и наоборот. Корфбол менее контактная, по сравнению с баскетболом, игра. При этом, согласно правилам, мужчина может играть только против мужчины, а женщина – против женщины. Дриблинг в корфболе не допускается, а игрок, овладевший мячом, может сделать с ним не более двух шагов. Кольцо по диаметру уже баскетбольного (40 см), а крепится оно выше (3,5 м). (Существует более «масштабный» вариант игры: с большими размерами площадки, количеством игроков и т.д.)
-
-Процесс игры в баскетбол насыщен большим количеством специальных приёмов, требующих технических и тактических навыков, а возникающий дух соперничества обеспечивает бурный интерес участникам матча. В процессе игры человеку необходимо использовать различные группы мышц для осуществления сложных маневренных движений, бега и высоких прыжков, что обеспечивает всестороннее развитие спортсмена. Динамичный процесс игры вынуждает игроков разумно использовать свои силы, постоянно меняя уровень своей активности.
-Занимайтесь любимым видом спорта!
-Занятия спортом очень важны для всего нашего организма. Это поддерживает тонус, укрепляет мышцы. Если постоянно заниматься спортом, то можно побороть постоянную усталость и раздраженность.
+The process of playing basketball is saturated with a large number of special techniques that require technical and tactical skills, and the emerging spirit of rivalry provides a storm of interest for the participants in the match. During the game, a person needs to use different muscle groups for complex maneuvering movements, running and high jumps, which ensures the all-round development of the athlete. The dynamic process of the game forces the players to use their powers wisely, constantly changing their level of activity.
+Practice your favorite sport!
+Sports are very important for our entire body. It maintains tone, strengthens muscles. If you constantly play sports, you can overcome constant fatigue and irritability.

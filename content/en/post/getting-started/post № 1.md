@@ -1,9 +1,9 @@
 ---
-title: Пост по прошедшей неделе(02.05.2022-07.05.2022)
-subtitle: Сегодня 7 мая и вот мой пост по прошедшей неделе.
+title: Last week's post(05/02/2022-05/07/2022)
+subtitle: Today is May 7th and here is my post from last week.
 
 # Summary for listings and search engines
-summary: Сегодня 7 мая и вот мой пост по прошедшей неделе.
+summary: Today is May 7th and here is my post from last week.
 
 # Link this post with a project
 projects: []
@@ -20,24 +20,24 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-# Featured image
+#Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ''
   focal_point: ''
-  placement: 2
+  location: 2
   preview_only: false
 
 authors:
-  - Андрианова Марина
+  - Andrianova Marina
 
 tags:
   - last week
 
 categories:
-  - Demo
+  -Demo
 ---
 
 ## Overview
 
-На этой неделе я выполняла лабораторные работы по операционным системам,ходила на очные пары, в свободное время посмотрела сериал.
+This week I did lab work on operating systems, went to face-to-face classes, watched a series in my free time.

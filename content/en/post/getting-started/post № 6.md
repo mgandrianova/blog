@@ -1,9 +1,9 @@
 ---
-title: Оформление отчёта.
-subtitle: Об оформлении отчёта.
+title: Report design.
+subtitle: About the design of the report.
 
 # Summary for listings and search engines
-summary: Об оформлении отчёта.
+summary: About the design of the report.
 
 # Link this post with a project
 projects: []
@@ -20,33 +20,35 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-# Featured image
+#Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ''
   focal_point: ''
-  placement: 2
+  location: 2
   preview_only: false
 
 authors:
-  - Андрианова Марина
+  - Andrianova Marina
 
 tags:
   - blog
 
 categories:
-  - Demo
+  -Demo
 ---
 
-## Что такое отчёт?
-Отчет о лабораторной работе пишется по итогам выполнения задания, в рамках которого студент получает практические навыки и находит применение своим теоретическим знаниям. По своей структуре отчет не сильно отличается от других видов научных работ.
-## Как оформлять отчёт?
-Содержание отчёта к нашим лабораторным работам по операционным системам:
-1). Титульный лист с указанием номера лабораторной работы и ФИО студента.
-2). Формулировка цели работы.
-3). Описание результатов выполнения задания:
-– скриншоты (снимки экрана), фиксирующие выполнение лабораторной работы;
-– листинги (исходный код) программ (если они есть);
-– результаты выполнения программ (текст или снимок экрана в зависимости от задания).
-4). Выводы, согласованные с целью работы.
-5). Ответы на контрольные вопросы.
+## What is a report?
+
+The report on laboratory work is written based on the results of the assignment, in which the student receives practical skills and finds application for his theoretical knowledge. In its structure, the report does not differ much from other types of scientific papers.
+## How to format a report?
+
+The content of the report to our laboratory work on operating systems:
+one). Title page indicating the number of laboratory work and the name of the student.
+2). Formulation of the purpose of the work.
+3). Description of the results of the task:
+- screenshots (screenshots) that record the performance of laboratory work;
+– listings (source code) of programs (if any);
+– results of program execution (text or screenshot, depending on the task).
+four). Conclusions consistent with the purpose of the work.
+5). Answers to control questions.

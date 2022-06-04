@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: Контакты
 subtitle:
 
 content:
@@ -27,9 +27,9 @@ content:
   # Contact details (edit or remove options as required)
   email: 1032216510@pfur.ru
   address:
-    street: Miklukho-Maclay
-    city: Moscow
-    country: Russian Federation
+    street: Миклухо-Маклая
+    city: Москва
+    country: Российская Федерация
     country_code: RF
  
   contact_links:

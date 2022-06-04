@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Студент
-    company: РУДН
-    company_url: 'https://www.rudn.ru/'
-    company_logo: index
-    location: Россия, г.Москва
-    date_start: '2021-09-01'
-    date_end: ''
-    description: |2-
-        В обязанности входит:
+   - title: Student
+     company: RUDN University
+     company_url: 'https://www.rudn.ru/'
+     company_logo: index
+     location: Russia, Moscow
+     date_start: '2021-09-01'
+     date_end: ''
+     description: |2-
+         Duties include:
         
-        * Знание английского языка
-        * Выполнять все задания преподавателей
-        * Программирование
+         * Knowledge of English
+         * Complete all tasks of teachers
+         * Programming
 
 design:
   columns: '2'

@@ -1,9 +1,9 @@
 ---
-title: Язык разметки Markdown.
-subtitle: О языке разметки Markdown.
+title: Markdown language.
+subtitle: About the markup language Markdown.
 
 # Summary for listings and search engines
-summary: О языке разметки Markdown.
+summary: About the Markdown markup language.
 
 # Link this post with a project
 projects: []
@@ -20,27 +20,28 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-# Featured image
+#Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ''
   focal_point: ''
-  placement: 2
+  location: 2
   preview_only: false
 
 authors:
-  - Андрианова Марина
+  - Andrianova Marina
 
 tags:
   - blog
 
 categories:
-  - Demo
+  -Demo
 ---
 
-## Что такое язык разметки Markdown?
+## What is Markdown language?
 
-Markdown (произносится маркда́ун) — облегчённый язык разметки, созданный с целью обозначения форматирования в простом тексте, с максимальным сохранением его читаемости человеком, и пригодный для машинного преобразования в языки для продвинутых публикаций (HTML, Rich Text и других). 
+Markdown (pronounced markdown) is a lightweight markup language designed to indicate formatting in plain text while maintaining human readability as much as possible, and suitable for machine conversion into advanced publishing languages ​​(HTML, Rich Text, and others).
 
-## История
-Первоначально создан в 2004 году Джоном Грубером и Аароном Шварцем. Многие идеи языка были позаимствованы из существующих соглашений по разметке текста в электронных письмах. Реализации языка Markdown преобразуют текст в формате Markdown в валидный, правильно построенный XHTML и заменяют левые угловые скобки («<») и амперсанды («&») на соответствующие коды сущностей. Первой реализацией Markdown стала написанная Грубером реализация на Perl, однако спустя некоторое время появилось множество реализаций от сторонних разработчиков. Реализация на Perl распространяется по лицензии типа BSD. Реализации Markdown на различных языках программирования включены (или доступны в качестве плагина) во многие системы управления содержимым. 
+## Story
+
+Originally created in 2004 by John Gruber and Aaron Schwartz. Many language ideas have been borrowed from existing text markup conventions in emails. Markdown language implementations convert Markdown text to valid, well-formed XHTML and replace left angle brackets ("<") and ampersands ("&") with the appropriate entity codes. The first implementation of Markdown was Gruber's Perl implementation, but after a while, many third-party implementations appeared. The Perl implementation is distributed under a BSD type license. Implementations of Markdown in various programming languages ​​are included (or available as a plugin) in many content management systems.
